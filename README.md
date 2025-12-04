@@ -39,3 +39,5 @@ $$(a, b) = F(L)$$
 The loss function for the generative models (DCGAN/ChromaGAN) combined pixel-wise loss with adversarial loss:
 
 $$\mathcal{L}_{total} = \lambda_{1}\mathcal{L}_{L1} + \lambda_{2}\mathcal{L}_{GAN}$$
+
+> *Note: This is an ongoing project, I will add the code and results for the other architectures in some days.*
